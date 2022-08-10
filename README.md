@@ -27,4 +27,9 @@ So Dirty I started cleaning as I was exploring, just to understand what I was lo
 ### Uploading the Data
 - uploaded the "movies with ratings" table and the ratings.csv to my local database. the ratings.csv was just incase future analysis was wanted to enhance the depth of ratings knowledge.
 # Automated ETL
-
+The following are the same notebook saved and copied at different times, with the goal of building on the last one for an automated cleaning and uploading process:
+  1) ETL_function_test.ipynb         :  Goal: Load the data
+  2) ETL_cleaning_wiki_movies.ipynb  :  Goal: Start cleaning with the dirtiest, just cleaning wiki movies
+  3) ETL_cleaning_kaggle_data.ipynb  :  Goal: Clean Kaggle's Metadata and ratings then merge with wiki movies
+  4) ETL_create_database.ipynb       :  Goal: Upload to Database
+  5) The Resources folder is screenshots of the queries I ran in pgAdmin to varify the the data uploaded coreectly with the automated function.
