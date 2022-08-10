@@ -1,6 +1,6 @@
 # Movies-ETL
 
-### Gathering movie data for analysis
+### Cleaning and storing movie data for future analysis
 
 ## Resources: 
   - Data: 
