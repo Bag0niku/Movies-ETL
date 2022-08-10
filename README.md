@@ -32,4 +32,4 @@ The following are the same notebook saved and copied at different times, with th
   2) ETL_cleaning_wiki_movies.ipynb  :  Goal: Start cleaning with the dirtiest, just cleaning wiki movies
   3) ETL_cleaning_kaggle_data.ipynb  :  Goal: Clean Kaggle's Metadata and ratings then merge with wiki movies
   4) ETL_create_database.ipynb       :  Goal: Upload to Database
-  5) The Resources folder is screenshots of the queries I ran in pgAdmin to varify the the data uploaded coreectly with the automated function.
+  5) The Resources folder is screenshots of the queries I ran in pgAdmin to varify the the data uploaded correctly with the automated function.
