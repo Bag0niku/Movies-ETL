@@ -33,3 +33,7 @@ The following are the same notebook saved and copied at different times, with th
   3) ETL_cleaning_kaggle_data.ipynb  :  Goal: Clean Kaggle's Metadata and ratings then merge with wiki movies
   4) ETL_create_database.ipynb       :  Goal: Upload to Database
   5) The Resources folder is screenshots of the queries I ran in pgAdmin to varify the the data uploaded correctly with the automated function.
+![](/Resources/movies_query.png)
+![](/Resources/movies_query_all.png)
+![](/Resources/ratings_query.png)
+![](/Resources/ratings_query_all.png)
